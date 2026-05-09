@@ -125,7 +125,7 @@ This project is an active **work in progress**.
 <br>
 
 <p align="center">
-  <img src="media/3dprint.png" alt="3dprint.png">
+  <img src="media/3dprint.jpeg" alt="3dprint.png">
   <br>
   <em>3D printed gears in PLA material</em>
 </p>
