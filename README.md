@@ -103,19 +103,39 @@ This project is an active **work in progress**.
 
 ## CAD & Design
 
-The full assembly was designed in CAD software. Key design views:
+<p align="center">
+  <img src="media/pic1.png" alt="pic1.png">
+  <br>
+  <em>Isometric View</em>
+</p>
+<br>
 
-| View | Description |
-|---|---|
-| Front/Side | 3-jaw gripper in open position showing jaw geometry and gear engagement |
-| Isometric | Full assembly showing gripper body, suction array, and worm drive |
-| Detail | Suction cup array face (octagonal housing with 8 peripheral + 1 central cup) |
+<p align="center">
+  <img src="media/pic2.pic2" alt="pic2.pic2">
+  <br>
+  <em>Front View</em>
+</p>
+<br>
 
-*(CAD files and renders available in the `/cad` directory)*
+<p align="center">
+  <img src="media/comp2.png" alt="comp2.png">
+  <br>
+  <em> Vacuum cup with level compensator (Spring Buffer)</em>
+</p>
+<br>
+
+<p align="center">
+  <img src="media/3dprint.png" alt="3dprint.png">
+  <br>
+  <em>3D printed gears in PLA material</em>
+</p>
+<br>
+
+*(CAD files and renders available in the `/CAD` directory)*
 
 ---
 
-## How It Works
+## Working
 
 ```
 Power ON  →  NEMA 17 spins  →  Worm drives worm wheel  →  Jaws close/open
@@ -129,7 +149,7 @@ The two modes can be used **independently or simultaneously** depending on the o
 
 ---
 
-## Why a Worm Gear?
+## Function of Worm Gear?
 
 Most gripper designs use rack-and-pinion or bevel gears. A worm drive was chosen here for three specific reasons:
 
@@ -146,21 +166,13 @@ The trade-off is lower efficiency (~40–60%) compared to spur gears, but for a 
 - Integrate force/torque sensing for adaptive gripping
 - Add pressure sensing to suction circuit for pick confirmation
 - Explore PETG or Nylon for final printed parts (better mechanical strength)
-- Develop ROS 2 driver node for robot arm integration
 - Validate payload capacity through physical testing
 
 ---
 
 ## Author
 
-**[Your Name]**  
-Mechanical & Electronics Engineering | Robotics Enthusiast  
+RAYHAAN T
+Mechanical Engineer | Robotics Enthusiast  
 📍 Chennai, India  
-🔗 [LinkedIn](#) | [Portfolio](#)
-
----
-
-## License
-
-This project is open-source under the [MIT License](LICENSE).  
-Feel free to use, modify, and build upon it — a credit/star is appreciated!
+🔗 linkedin.com/in/rayhaan-t-742709290/
