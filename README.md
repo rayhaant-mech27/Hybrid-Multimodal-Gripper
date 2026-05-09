@@ -172,7 +172,8 @@ The trade-off is lower efficiency (~40–60%) compared to spur gears, but for a 
 
 ## Author
 
-RAYHAAN T
-Mechanical Engineer | Robotics Enthusiast  
+RAYHAAN T 
+<br>
+Final Year Mechanical Engineering Student | Robotics Enthusiast  
 📍 Chennai, India  
 🔗 linkedin.com/in/rayhaan-t-742709290/
