@@ -111,7 +111,7 @@ This project is an active **work in progress**.
 <br>
 
 <p align="center">
-  <img src="media/pic2.pic2" alt="pic2.pic2">
+  <img src="media/pic2.png" alt="pic2.png">
   <br>
   <em>Front View</em>
 </p>
